@@ -53,7 +53,7 @@ nav ul li a {
       color: #fff;
       font-size: 16px;
 }
-
+/* ----------------------------------------Nav collapse */
 @media(max-width: 786px) {
 
       .logo {
